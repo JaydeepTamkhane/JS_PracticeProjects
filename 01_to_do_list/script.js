@@ -45,11 +45,16 @@ listContainer.addEventListener('click',function(e){
 
 
 function saveData(){
+    // it save the data on the browser that is client side server
+    // the data is just a keyname it can be whatever
+    // setitem and getitemis method on related  to localstorage
     localStorage.setItem("data",listContainer.innerHTML)
 }
 
 
 function showTask(){
+    // this function executes whenever the website in refreshed
+    // and fetched the data back
     listContainer.innerHTML=localStorage.getItem("data");
 }
 
