@@ -1,4 +1,4 @@
-#JS_PracticeProjects
+# JS_PracticeProjects
 
 ## Project 01: To-Do List Project
 
