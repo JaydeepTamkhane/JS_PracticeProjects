@@ -7,3 +7,7 @@ This project is a simple web-based To-Do List application. It allows users to ma
 ## Project 02: Number Guessing Game
 
 This project is a simple JavaScript game where players guess a random number within 10 attempts. It's designed to practice JavaScript basics and includes basic HTML/CSS for structure and styling.
+
+## Project 03: Random Password Generator
+
+This simple web application allows users to generate random passwords. It provides control over password length and includes a copy functionality for easy transfer. Built with HTML, CSS, and JavaScript, this project reinforces DOM manipulation and random character selection techniques.
